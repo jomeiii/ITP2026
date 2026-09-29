@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/stepandresvyannikov/Documents/ITP2026/Lab04/Lab Exercise/ExtraExercise'
+relocations:     []
+...
