@@ -118,7 +118,7 @@ int main(){
             }
             else{
                 write_result(output, 3);
-                accepted++;
+                accepted++; 
                 
                 move_rover(&x, &y, &battery, &heat, &distance, dx, dy, cargo);
 
