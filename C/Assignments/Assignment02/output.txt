@@ -1,26 +1,12 @@
-101 Max Ferrari 32 1
-102 Lewis Mercedes 26 1
-103 Charles Ferrari 21 0
-104 Lando McLaren 17 0
-105 Oscar McLaren 4 0
-101 Max Ferrari
-STATUS ACTIVE
-RACES 2
-WINS 1
-POINTS 32
-Ferrari
-DRIVERS 2
-POINTS 
-WINS 1
-101 Max Ferrari 32
-101 Max Ferrari 32 1
-102 Lewis Mercedes 26 1
-103 Charles Ferrari 21 0
-104 Lando McLaren 17 0
-105 Oscar McLaren 4 0
-106 George Williams 0 0
+20 Bob Mercedes 18 1
+10 Alice Ferrari 0 0
 RACE 1
-FINISHED 4
-DNF 1
+FINISHED 1
+DNF 0
 DISQUALIFIED 0
-WINNER 101
+WINNER 0
+20 Bob Mercedes
+STATUS ACTIVE
+RACES 1
+WINS 1
+POINTS 18
